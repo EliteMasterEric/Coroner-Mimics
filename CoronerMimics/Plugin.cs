@@ -10,7 +10,7 @@ namespace CoronerMimics
     {
         public const string PLUGIN_ID = "coroner.mimics";
         public const string PLUGIN_NAME = "Coroner - Mimics";
-        public const string PLUGIN_VERSION = "1.0.0";
+        public const string PLUGIN_VERSION = "1.0.2";
         public const string PLUGIN_GUID = "com.elitemastereric.coroner.mimics";
     }
 

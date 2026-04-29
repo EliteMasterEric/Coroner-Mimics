@@ -6,7 +6,7 @@
     <Company>EliteMasterEric</Company>
     <AssemblyName>Coroner - Mimics</AssemblyName>
     <GUID>com.elitemastereric.coroner.mimics</GUID>
-    <Version>1.0.0</Version>
+    <Version>1.0.2</Version>
 
     <Title>Coroner - Mimics</Title>
     <Description>Provides integration between Coroner and Mimics.</Description>
